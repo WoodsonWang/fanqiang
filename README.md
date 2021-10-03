@@ -3,6 +3,10 @@
 ## 收费
 
 1. [速鹰](https://suying666.net/)
+   
+   11.9 RMB/Month
+   
+   2021-10-04更新
 
 2. [牧秋](https://muqiu.cc/)
 
@@ -15,6 +19,17 @@
 5. [OneView](https://uk5644.cn/)
 
    是否可用----未知
+6. [OVO](https://ovocloud.cc/)
+   
+   10 RMB 10 G 不限时间
+   
+   2021-10-04更新
+
+7. [好家伙](https://haojiahuo.live/)
+   
+   3.99 RMB/Month
+
+   2021-10-04更新
 
 ## 免费
 
