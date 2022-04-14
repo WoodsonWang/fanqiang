@@ -2,42 +2,35 @@
 
 ## 收费
 
-1. [速鹰](https://suying666.net/)
+1. [速鹰](https://suying666.net/)    2022-04-14
    
-   11.9 RMB/Month
+   11.9 RMB/month
+
+2. ~~[牧秋](https://muqiu.cc/)~~    2022-04-14
+
+3. ~~[BILLTS NET ](https://bsnet.today/)~~      2022-04-14
+
+4. ~~[WaveCloud](https://wc.mba/auth/login)~~     2022-04-14
    
-   2021-10-04更新
-
-2. [牧秋](https://muqiu.cc/)
-
-3. ~~[BILLTS NET ](https://bsnet.today/)~~
-
-4. [WaveCloud](https://wc.mba/auth/login)
-
    价格偏贵
 
-5. [OneView](https://uk5644.cn/)
+5. ~~[OneView](https://uk5644.cn/)~~    2022-04-14 
 
-   是否可用----未知
-6. [OVO](https://ovocloud.cc/)
+6. [OVO](https://ovocloud.cc/)    2021-10-04
    
    10 RMB 10 G 不限时间
-   
-   2021-10-04更新
 
-7. [好家伙](https://haojiahuo.live/)
+7. [好家伙](https://haojiahuo.live/)    2021-10-04
    
    3.99 RMB/Month
 
-   2021-10-04更新
+8. [蜂巢](https://666yun.men/)    2022-04-14
+   
+   9 RMB/month    
 
 ## 免费
 
 1. [F-Secure Freedome](https://www.f-secure.com/en)
-
-
-
-
 
 # 浏览器插件
 
@@ -48,6 +41,5 @@
 2. Astar VPN - Free and fast VPN for everyone
 
 3. 谷歌上网助手
-
+   
    Ghelper
-
